@@ -1,0 +1,25 @@
+{
+  "name": "slate-vue-docs",
+  "version": "0.1.0-alpha.15",
+  "description": "Slate-vue is a Vue app component library built with @dsbn/slate-css",
+  "repository": "https://github.com/dsbniagara/slate-vue",
+  "scripts": {
+    "dev": "parcel -p 1235 --no-cache --no-source-maps ./docs/index.html",
+    "build": "parcel build -p 1235 --no-cache --no-source-maps ./docs/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dsbn/slate-css": "^0.1.0-alpha.13",
+    "@dsbn/slate-vue": "^0.1.0-alpha.15",
+    "@vue/component-compiler-utils": "^3.0.2",
+    "parcel": "1.12.3",
+    "parcel-bundler": "^1.12.3",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.11",
+    "vuejs-datepicker": "^1.5.4"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
