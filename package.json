@@ -5,7 +5,7 @@
   "repository": "https://github.com/dsbniagara/slate-vue",
   "scripts": {
     "dev": "parcel -p 1235 --no-cache --no-source-maps ./docs/index.html",
-    "build": "parcel build -p 1235 --no-cache --no-source-maps ./docs/index.html"
+    "build": "parcel build --no-cache --no-source-maps ./docs/index.html"
   },
   "author": "",
   "license": "ISC",
