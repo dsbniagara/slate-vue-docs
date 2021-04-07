@@ -4,12 +4,12 @@
 <pre class="code">import Dropdown from '@dsbn/slate-vue/component/Dropdown'</pre>
 
 <demo title="Button dropdown" code=''>
-    <dropdown text="Dropdown">
+    <dropdown text="Left">
         <a class="dropdown-item" href="#">Item 1</a>
         <a class="dropdown-item" href="#">Item 2</a>
         <a class="dropdown-item" href="#">Item 3</a>
     </dropdown>
-    <dropdown text="Dropdown" btn="primary">
+    <dropdown text="Primary, Right" btn="primary" position="right">
         <a class="dropdown-item" href="#">Item 1</a>
         <a class="dropdown-item" href="#">Item 2</a>
         <a class="dropdown-item" href="#">Item 3</a>
