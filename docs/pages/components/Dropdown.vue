@@ -9,6 +9,11 @@
         <a class="dropdown-item" href="#">Item 2</a>
         <a class="dropdown-item" href="#">Item 3</a>
     </dropdown>
+    <dropdown text="Center" btn="primary" position="center">
+        <a class="dropdown-item" href="#">Item 1</a>
+        <a class="dropdown-item" href="#">Item 2</a>
+        <a class="dropdown-item" href="#">Item 3</a>
+    </dropdown>
     <dropdown text="Primary, Right" btn="primary" position="right">
         <a class="dropdown-item" href="#">Item 1</a>
         <a class="dropdown-item" href="#">Item 2</a>

@@ -1,6 +1,6 @@
 {
   "name": "slate-vue-docs",
-  "version": "0.1.0-alpha.19",
+  "version": "0.1.0-alpha.21",
   "description": "Slate-vue is a Vue app component library built with @dsbn/slate-css",
   "repository": "https://github.com/dsbniagara/slate-vue",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dsbn/slate-css": "^0.1.0-alpha.13",
-    "@dsbn/slate-vue": "^0.1.0-alpha.20",
+    "@dsbn/slate-css": "^0.1.0-alpha.14",
+    "@dsbn/slate-vue": "^0.1.0-alpha.21",
     "@vue/component-compiler-utils": "^3.0.2",
     "parcel": "1.12.3",
     "parcel-bundler": "^1.12.3",
