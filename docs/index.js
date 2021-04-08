@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Docs from './Docs.vue';
 import VueRouter from 'vue-router';
 
-import {Slate} from '@dsbn/slate-vue';
+import {Slate} from '../../slate-vue/src/index';
 import Demo from './Demo';
 import routes from './routes'
 

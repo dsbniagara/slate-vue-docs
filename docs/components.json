@@ -18,4 +18,8 @@
     "component": "TimeInput",
     "name": "Time Input",
     "category": "Input"
+},{
+    "component": "Tooltip",
+    "name": "Tooltip",
+    "category": "Uncategorized"
 }]

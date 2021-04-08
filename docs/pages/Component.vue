@@ -15,6 +15,7 @@ var componentList = {
     DocCodeInput: () => import('./components/CodeInput.vue'),
     DocNumberInput: () => import('./components/NumberInput.vue'),
     DocTimeInput: () => import('./components/TimeInput.vue'),
+    DocTooltip: () => import('./components/Tooltip.vue'),
 };
 
 export default {
